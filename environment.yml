@@ -1,4 +1,4 @@
-name: mypy #name of your env
+name: mybinder #name of your env
 channels:
         - conda-forge
 dependencies:
