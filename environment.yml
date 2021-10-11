@@ -16,3 +16,4 @@ dependencies:
         - jupyterlab
         - ipympl
         - nodejs
+        - pooch #needed to download data
